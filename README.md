@@ -1,4 +1,4 @@
-# Mobil Uygulama Geliştirme Atölyesi 6. Atölye - Dart Dili Ödevleri
+# ÖDEVLER
 
 Bu proje, Mobil Uygulama Geliştirme Atölyesi'nin 6. atölyesi kapsamında Dart dilinde gerçekleştirilen ödevleri içermektedir. Ödevler, temel programlama becerilerini geliştirmek ve Dart dilinin temel özelliklerini öğrenmek amacıyla hazırlanmıştır.
 
