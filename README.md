@@ -1,19 +1,66 @@
-# ÖDEVLER
+# 📌 *Mobil Uygulama Geliştirme Atölyesi - Ödevler*  
 
-Bu proje, Mobil Uygulama Geliştirme Atölyesi'nin 6. atölyesi kapsamında Dart dilinde gerçekleştirilen ödevleri içermektedir. Ödevler, temel programlama becerilerini geliştirmek ve Dart dilinin temel özelliklerini öğrenmek amacıyla hazırlanmıştır.
+Bu proje, *Mobil Uygulama Geliştirme Atölyesi'nin 6. atölyesi* kapsamında *Dart* dilinde gerçekleştirilen *ödevleri* içermektedir. Bu ödevler, *temel programlama becerilerini geliştirmek* ve *Dart dilinin özelliklerini öğrenmek* amacıyla hazırlanmıştır. 🚀  
 
-## Ödevler
+---
 
-1. **Liste Elemanlarını Toplama**: Bir fonksiyon yazılması gerekmektedir. Bu fonksiyon bir liste alacak ve listedeki tüm sayıların toplamını döndürmelidir.
+📋 *Ödev Listesi*  
 
-2. **Tek Sayıları Filtreleme**: Bir fonksiyon oluşturulması istenmektedir. Bu fonksiyon bir liste alacak ve yalnızca tek sayılardan oluşan yeni bir liste döndürecektir.
+1️⃣ *Liste Elemanlarını Toplama*  
+🔹 Bir *fonksiyon* yazılacaktır.  
+🔹 *Girdi:* Bir *liste* alacaktır.  
+🔹 *Çıktı:* Listedeki *tüm sayıların toplamını döndürecektir*.  
 
-3. **Listeyi Ters Çevirme**: Bir fonksiyon yazılması beklenmektedir. Bu fonksiyon bir liste alacak ve listenin elemanlarını ters çevirerek yeni bir liste döndürecektir.
+2️⃣ *Tek Sayıları Filtreleme*  
+🔹 Bir *fonksiyon* yazılacaktır.  
+🔹 *Girdi:* Bir *liste* alacaktır.  
+🔹 *Çıktı:* *Yalnızca tek sayılardan oluşan yeni bir liste döndürecektir*.  
 
-## Kullanım
+3️⃣ *Listeyi Ters Çevirme*  
+🔹 Bir *fonksiyon* yazılacaktır.  
+🔹 *Girdi:* Bir *liste* alacaktır.  
+🔹 *Çıktı:* *Listenin elemanlarını ters çevirerek yeni bir liste döndürecektir*.  
 
-Bu proje, Dart dilinde yazılmış fonksiyonları içermektedir. Kullanıcıların, örnek listeler üzerinde bu fonksiyonları test etmeleri önerilmektedir. Her bir fonksiyon, belirli bir işlevi yerine getirmekte ve projeye katkıda bulunmaktadır.
+---
 
-## Sonuç
+🛠 *Nasıl Kullanılır?*  
+1️⃣ *Projeyi klonlayın:*  
+```bash
+git clone https://github.com/bushranovaaa/Hi_Kod-Mobil_Uygulama_Gelistirme_Odevleri.git
+cd Hi_Kod-Mobil_Uygulama_Gelistirme_Odevleri
+```
 
-Bu atölye çalışması, Dart dilinin temellerini öğrenmek ve uygulamak için bir fırsat sunmaktadır. Geliştirilen fonksiyonlar, programlama mantığı ve algoritma geliştirme konularında faydalı bir deneyim sağlamaktadır.
+2️⃣ *Dart dosyalarını çalıştırın:*
+```bash
+dart run odev1.dart   # Liste Elemanlarını Toplama
+dart run odev2.dart   # Tek Sayıları Filtreleme
+dart run odev3.dart   # Listeyi Ters Çevirme
+```
+
+3️⃣ *Sonuçları gözlemleyin ve test edin!* 🎯  
+
+---
+
+🎯 *Sonuç & Kazanımlar*  
+Bu *atölye çalışması*, Dart programlama dilinin temellerini öğrenmek ve algoritmalar geliştirmek için *harika bir fırsattır*.  
+
+✔ *Programlama mantığını geliştirmek*  
+✔ *Dart dilini daha iyi öğrenmek*  
+✔ *Fonksiyon yazma ve algoritma oluşturma yeteneklerini artırmak*  
+
+---
+
+📜 *Lisans*  
+Bu proje *MIT Lisansı* ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.  
+
+---
+
+📬 *İletişim*  
+Eğer herhangi bir sorunuz veya katkı öneriniz varsa, benimle iletişime geçebilirsiniz:  
+📩 *E-Posta:* [kurtbusra956@gmail.com](mailto:kurtbusra956@gmail.com)  
+🔗 *GitHub:* [bushranovaaa](https://github.com/bushranovaaa)  
+*Linkedln:* [bushranovaa](https://tr.linkedin.com/in/bushranovaaa)
+
+💡 *Projeyi beğendiyseniz, GitHub'da ⭐ vermeyi unutmayın!* ✨  
+
+---
