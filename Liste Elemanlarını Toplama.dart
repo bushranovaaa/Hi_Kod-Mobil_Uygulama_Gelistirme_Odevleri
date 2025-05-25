@@ -1,15 +1,18 @@
-// 📌 Liste elemanlarını toplamak için bir fonksiyon
+// 📌 Liste elemanlarını toplamak için süper bir fonksiyon!
 int listeToplami(List<int> liste) {
-  return liste.reduce((a, b) => a + b); // reduce() ile elemanları topluyoruz
+  // 'reduce()' metoduyla listenin tüm elemanlarını tek bir değere indirgiyoruz.
+  // Burada 'a' birikmiş toplamı, 'b' ise güncel elemanı temsil ediyor.
+  // Her adımda 'a'ya 'b'yi ekleyerek ilerliyoruz.
+  return liste.reduce((a, b) => a + b);
 }
 
 void main() {
-  // 🎯 Örnek bir liste oluşturuyoruz
+  // 🎯 Test etmek için hazırladığın harika örnek liste.
   List<int> sayilar = [5, 8, 12, 20, 3];
 
-  // 🛠 Fonksiyonu çağırıp sonucu alıyoruz
+  // 🛠 Fonksiyonu çağırıp anında toplamı alıyoruz!
   int sonuc = listeToplami(sayilar);
 
-  // ✅ Sonucu ekrana yazdırıyoruz
-  print("Listenin elemanlarının toplamı: $sonuc");
+  // ✅ Ve işte o beklediğimiz sonuç! Ne kadar da temiz.
+  print("Listenin elemanlarının toplamı: $sonuc"); // Çıktı: Listenin elemanlarının toplamı: 48
 }
