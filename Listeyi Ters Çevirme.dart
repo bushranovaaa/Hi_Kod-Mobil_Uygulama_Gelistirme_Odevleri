@@ -1,14 +1,17 @@
-// 📌 Listeyi ters çevirmek için bir fonksiyon
+// 📌 Listeyi ters çevirmek için şahane bir fonksiyon!
 List<int> tersCevir(List<int> liste) {
-  return liste.reversed.toList(); // Dart'ın reversed özelliğiyle ters çeviriyoruz
+  // Dart'ın 'reversed' özelliğiyle listeyi kolayca tersine çeviriyoruz.
+  // Sonra da bu ters çevrilmiş "iterable" yapıyı tekrar bir listeye dönüştürüyoruz (`toList()`).
+  return liste.reversed.toList();
 }
 
 void main() {
-  // 🎯 Örnek bir liste oluşturuyoruz
+  // 🎯 Test etmek için hazırladığın süper örnek liste.
   List<int> sayilar = [10, 20, 30, 40, 50];
 
-  // 🛠 Fonksiyonu çağırıp ters çevrilmiş listeyi alıyoruz
+  // 🛠 Fonksiyonu çağırıp ters çevrilmiş listeyi anında alıyoruz!
   List<int> tersSayilar = tersCevir(sayilar);
 
-  // ✅ Sonucu ekrana yazdırıyoruz
-  print("Ters çevrilmiş liste: $tersSayilar");
+  // ✅ Ve işte sonuç! Beklediğimiz gibi mi? Aynen öyle!
+  print("Ters çevrilmiş liste: $tersSayilar"); // Çıktı: Ters çevrilmiş liste: [50, 40, 30, 20, 10]
+}
