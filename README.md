@@ -21,7 +21,7 @@ Bu projedeki kodları denemek istersen, adımlar çok basit:
 
 1. **Projeyi Klonla:**
 ```Bash
-  git clone https://github.com/bushranovaaa/Hi_Kod-Mobil_Uygulama_Gelistirme_Odevleri.git
+  git clone https://github.com/busrabuseecodes/Hi_Kod-Mobil_Uygulama_Gelistirme_Odevleri.git
   cd Hi_Kod-Mobil_Uygulama_Gelistirme_Odevleri
 ```
 
@@ -45,8 +45,7 @@ Bu proje `MIT Lisansı` ile lisanslanmıştır. Daha fazla detay için `LICENSE`
 
 ## 📬 İletişim
 Herhangi bir sorun, soru veya katkı önerin olursa, benimle iletişime geçmekten çekinme:
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bushranovaaa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bushranovaaa/)  
-[![Mail](https://img.shields.io/badge/E-posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurtbusra956@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/busrabuseecodes](https://github.com/busrabuseecodes))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrabuseecodes/)  
 
 **⭐ Projeyi beğendiysen, GitHub'da bir yıldız vermeyi unutma! Senin desteğin benim için çok değerli! ✨**
